@@ -26,12 +26,12 @@
  -->
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently Fellow at CS.CODE.IN - Class of CS 2021|
+- :computer: I'm currently Fellow at CS.CODE.IN - Class of CS 2021
 - :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"<br>
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<h2 align="left">:computer: Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-suhailroushan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suhailroushan/)](https://www.linkedin.com/in/suhailroushan/) [![Twitter
 Badge](https://img.shields.io/badge/-@suhailroushan13-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/suhailroushan13)](https://twitter.com/suhailroushan13) [![Facebook
