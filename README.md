@@ -48,6 +48,13 @@
 
 ---
 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/suhailroushan13/count.svg" />
+</p>
+
+
 <h2 align="left">:computer: Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-suhailroushan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suhailroushan/)](https://www.linkedin.com/in/suhailroushan/) [![Twitter
