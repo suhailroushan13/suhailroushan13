@@ -3,6 +3,21 @@
     <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
     <br> I'm Suhail Roushan, Full Stack Developer :computer:<br>
     <br>
+    
+  [suhailroushan.com](https://suhailroushan.com)
+    <h3>
+      <h2 align="left">👨🏻‍💻 About Me: <br>
+     ⭐Fellow at CS.CODE.IN - Class of CS 2021 <br>
+✅ UI UX Designer<br>
+✅ Photographer<br>
+✅ Editor<br>
+
+
+ - I am Suhail Roushan a 19th Year. A Fellow at CS.CODE.IN - Class of CS 2021 <br>
+ - A Student with an Undergraduate in Computer Science from Lords Institute of Engineering and Technology , Hyderabad, <br> 
+ - My Interest is in Photoshop, Video Editing is also in line with the of Android Development and Web Development, Having a friendly nature with whomever 
+       I met. <br>
+ - I am in 3rd Year CSE and in the Same direction .I am working on Projects </h3>
 <!--     <img src="logos.png" alt="Coder GIF" width="500"> -->
   </abc>
 </h2>
@@ -24,11 +39,12 @@
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
 </p>
  -->
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+
 
 - :computer: I'm currently Fellow at CS.CODE.IN - Class of CS 2021
 - :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments
+
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"<br>
 
 
