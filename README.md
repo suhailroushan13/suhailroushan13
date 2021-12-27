@@ -5,8 +5,8 @@
     <br>
     
   [suhailroushan.com](https://suhailroushan.com)
-    <h3>
-      <h3 align="left">👨🏻‍💻 About Me: <br>
+    <h4>
+      <h4 align="left">👨🏻‍💻 About Me: <br>
      ⭐Fellow at CS.CODE.IN - Class of CS 2021 <br>
 ✅ UI UX Designer<br>
 ✅ Photographer<br>
@@ -17,10 +17,10 @@
  - A Student with an Undergraduate in Computer Science from Lords Institute of Engineering and Technology , Hyderabad, <br> 
  - My Interest is in Photoshop, Video Editing is also in line with the of Android Development and Web Development, Having a friendly nature with whomever 
        I met. <br>
- - I am in 3rd Year CSE and in the Same direction .I am working on Projects </h3>
+ - I am in 3rd Year CSE and in the Same direction .I am working on Projects </h4>
 <!--     <img src="logos.png" alt="Coder GIF" width="500"> -->
   </abc>
-</h3>
+</h4>
 <!-- <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
