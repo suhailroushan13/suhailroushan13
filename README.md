@@ -7,13 +7,14 @@
   [suhailroushan.com](https://suhailroushan.com)
     <h4>
       <h4 align="left">👨🏻‍💻 About Me: <br>
+        <br>
      ⭐Fellow at CS.CODE.IN - Class of CS 2021 <br>
 ✅ UI UX Designer<br>
 ✅ Photographer<br>
 ✅ Editor<br>
 
 
- - I am Suhail Roushan a 19th Year. A Fellow at CS.CODE.IN - Class of CS 2021 <br>
+ - I am Suhail Roushan a 19th Year Old Techie <br>
  - A Student with an Undergraduate in Computer Science from Lords Institute of Engineering and Technology , Hyderabad, <br> 
  - My Interest is in Photoshop, Video Editing is also in line with the of Android Development and Web Development, Having a friendly nature with whomever 
        I met. <br>
