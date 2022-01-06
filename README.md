@@ -14,11 +14,11 @@
 ✅ Editor<br>
 
 
- - I am Suhail Roushan a 19th Year Old Techie <br>
+<!--  - I am Suhail Roushan a 19th Year Old Techie <br> -->
  - A Student with an Undergraduate in Computer Science from Lords Institute of Engineering and Technology , Hyderabad, <br> 
- - My Interest is in Photoshop, Video Editing is also in line with the of Android Development and Web Development, Having a friendly nature with whomever 
-       I met. <br>
- - I am in 3rd Year CSE and in the Same direction .I am working on Projects </h4>
+<!--  - My Interest is in Photoshop, Video Editing is also in line with the of Android Development and Web Development, Having a friendly nature with whomever 
+       I met. <br> -->
+<!--  - I am in 3rd Year CSE and in the Same direction .I am working on Projects </h4> -->
 <!--     <img src="logos.png" alt="Coder GIF" width="500"> -->
   </abc>
 </h4>
