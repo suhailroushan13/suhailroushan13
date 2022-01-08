@@ -12,7 +12,7 @@ Having an Experience in 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲�
 𝗔 𝗙𝗲𝘄 𝗪𝗼𝗿𝗱𝘀 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 :<br>
 A Guy with having Creativity + Coding Knowledge to Build Products which would Help people by using them. I would like to Solve problems using Updated Technology and making it more helpful. Programming isn't about what you know; it's about what you can figure out<br>
 
-Interested in <br>
+𝗜𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝗲𝗱 𝗶𝗻 <br>
 ✔️ Startups🚀 
 ✔️ Web3.0💻
 ✔️ Marketing 🤳 
@@ -52,12 +52,10 @@ Available on [Play Store](https://play.google.com/store/apps/details?id=com.w8in
 
 ---
 
-
-<p align="center"> 
+<p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/suhailroushan13/count.svg" />
 </p>
-
 
 <h2 align="left">:handshake: Let's get connected:</h2>
 
@@ -66,3 +64,6 @@ Badge](https://img.shields.io/badge/-@suhailroushan13-1ca0f1?style=flat-square&l
 Badge](https://img.shields.io/badge/-@suhailroushan13-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/your.suhailroushan/)](https://www.facebook.com/your.suhailroushan/) [![Instagram
 Badge](https://img.shields.io/badge/-@suhailroushan.in-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/suhailroushan.in/)](https://www.instagram.com/suhailroushan.in/)
 [![Linkedin Badge](https://img.shields.io/badge/-suhailroushan.com-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://suhailroushan.com/)](https://suhailroushan.com/)
+
+
+
