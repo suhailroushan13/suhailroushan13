@@ -12,7 +12,14 @@ Having an Experience in 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲�
 𝗔 𝗙𝗲𝘄 𝗪𝗼𝗿𝗱𝘀 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 :<br>
 A Guy with having Creativity + Coding Knowledge to Build Products which would Help people by using them. I would like to Solve problems using Updated Technology and making it more helpful. Programming isn't about what you know; it's about what you can figure out<br>
 
-Interested in Startups,Web3.0,Marketing,Designing,Coding,Domains
+Interested in <br>
+✔️ Startups🚀 
+✔️ Web3.0💻
+✔️ Marketing 🤳 
+✔️ Designing ✏️ 
+✔️ Coding 🧑‍💻 
+✔️ Domains🤑 
+          
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 : <br>
 
