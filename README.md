@@ -43,6 +43,8 @@ Available on [GitHub Repo 📁](https://github.com/suhailroushan13/365days.codes
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Copy Paste Files in 100MB's Speed](https://suhailroushan.medium.com/how-to-copy-paste-files-in-100mbs-speed-e8b1e31e18f0)
+- [Get Your Free SSL](https://suhailroushan.medium.com/free-ssl-38ad1ec18a52)
 - [Encode Your Messages Using Base64](https://suhailroushan.medium.com/encode-your-messages-using-base64-315d2c0420ce)
 - [5 Ways to Swap Numbers In C Programming](https://suhailroushan.medium.com/5-ways-to-swap-numbers-in-c-programming-5b2e6f0cf59f)
 - [Make UPI Payments Without Internet](https://suhailroushan.medium.com/yes-you-heard-right-now-make-upi-payments-without-internet-9d831e8b2509)
