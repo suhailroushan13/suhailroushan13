@@ -55,11 +55,14 @@ Having an Experience in 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲�
 
 <hr />
 
-## 📈 GitHub Stats 
-
+<!-- ## 📈 GitHub Stats  -->
+<!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suhailroushan13&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<p align="left"> 
-  Visitor count<br>
+<p align="left">  -->
+
+  
+  <h2 align="left"> 🟢 Visitor Count ++</h2>
+  <br>
   <img src="https://profile-counter.glitch.me/suhailroushan13/count.svg" />
 </p>
 
