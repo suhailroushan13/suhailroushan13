@@ -2,7 +2,7 @@
 <h1 align="center">Suhail Roushan</h1>
 <h2 align="center">Fellow at CS.CODE.IN Class of 2021 </h2>
 
-<a href="https://app.daily.dev/suhailroushan13"><img align="right" width="auto" height="500" src="https://api.daily.dev/devcards/ed8c407f7e92461aacc2a08689397203.png?r=bk3"  width="400" alt="Suhail Roushan Dev Card"/></a>
+<a href="https://app.daily.dev/suhailroushan"><img align="right" width="auto" height="500" src="https://api.daily.dev/devcards/ed8c407f7e92461aacc2a08689397203.png?r=bk3"  width="400" alt="Suhail Roushan Dev Card"/></a>
 
 
  <br> 📌 Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20"><br>
