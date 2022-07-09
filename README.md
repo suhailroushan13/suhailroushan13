@@ -74,7 +74,7 @@ Having an Experience in 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲�
 
 
 <a href="https://www.linkedin.com/in/suhailroushan/"><img align="left" src="https://raw.githubusercontent.com/suhailroushan/suhailroushan/main/linkedin.png" alt="Suhail Roushan | LinkedIn" width="40px"/></a>
-<a href="https://instagram.com/suhailroushan.in"><img align="left" src="https://raw.githubusercontent.com/suhailroushan/suhailroushan/main/insta.png" alt="Suhail Roushan | Instagram" width="40px"/></a>
+<a href="https://instagram.com/suhailroushan"><img align="left" src="https://raw.githubusercontent.com/suhailroushan/suhailroushan/main/insta.png" alt="Suhail Roushan | Instagram" width="40px"/></a>
 <a href="https://suhailroushan.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Suhail Roushan | Medium" width="40px"/></a>
 <a href="https://www.facebook.com/your.suhailroushan/"><img align="left" src="https://raw.githubusercontent.com/suhailroushan/suhailroushan/main/facebook.png" alt="Suhail Roushan | Facebook" width="40px"/></a>
 <a href="https://twitter.com/suhailroushan13"><img align="left" src="https://raw.githubusercontent.com/suhailroushan/suhailroushan/main/twitter.png" alt="Suhail Roushan | Twitter" width="40px"/></a>
