@@ -1,5 +1,3 @@
-[![Suhail Roushan](https://raw.githubusercontent.com/suhailroushan/suhailroushan/main/GitHubHeader.png)](https://suhailroushan.com)
-
 <h1 align="center">Suhail Roushan</h1>
 <h2 align="center">Fellow at CS.CODE.IN Class of 2021 </h2>
 
