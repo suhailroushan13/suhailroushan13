@@ -62,6 +62,8 @@ A Guy with having Creativity + Coding Knowledge to Build Products which would He
 <ul>
 <li> <a href="https://university.mongodb.com/course_completion/31684c91-234e-4f0b-8525-e2c7d3d94cb4
 "alt="<b>M001:MongoDB Basics</b>"> <b>M001:MongoDB Basics</b> </a> 
+ <li> <a href="https://university.mongodb.com/course_completion/16a4658e-49d9-4a25-8edb-ad81b9d8aee5
+"alt="<b>M001:MongoDB Basics</b>"> <b>M220JS: MongoDB for JavaScript Developers</b> </a> 
 
 </ul>
 
