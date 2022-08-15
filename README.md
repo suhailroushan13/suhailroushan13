@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/suhailroushan13/suhailroushan13/master/suhail.png" width="1420"><br>
+<!-- <img src="https://raw.githubusercontent.com/suhailroushan13/suhailroushan13/master/suhail.png" width="1420"><br> -->
 
 
 <h1 align="center">Suhail Roushan</h1>
