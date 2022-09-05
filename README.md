@@ -88,7 +88,7 @@ A Guy with having Creativity + Coding Knowledge to Build Products which would He
 <a href="https://instagram.com/suhailroushan"><img align="left" src="https://raw.githubusercontent.com/suhailroushan/suhailroushan/main/insta.png" alt="Suhail Roushan | Instagram" width="40px"/></a>
 <a href="https://suhailroushan.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Suhail Roushan | Medium" width="40px"/></a>
 <a href="https://www.facebook.com/your.suhailroushan/"><img align="left" src="https://raw.githubusercontent.com/suhailroushan/suhailroushan/main/facebook.png" alt="Suhail Roushan | Facebook" width="40px"/></a>
-<a href="https://twitter.com/suhailroushan13"><img align="left" src="https://raw.githubusercontent.com/suhailroushan/suhailroushan/main/twitter.png" alt="Suhail Roushan | Twitter" width="40px"/></a>
+<a href="https://twitter.com/0xsuhailroushan"><img align="left" src="https://raw.githubusercontent.com/suhailroushan/suhailroushan/main/twitter.png" alt="Suhail Roushan | Twitter" width="40px"/></a>
 <a href="https://suhailroushan.com"><img align="left" src="https://raw.githubusercontent.com/suhailroushan/suhailroushan/main/suhailroushann.png" alt="Suhail Roushan | Website" width="40px"/></a>
 <br>
 <br>
