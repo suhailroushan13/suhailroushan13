@@ -1,12 +1,5 @@
-<!-- <img src="https://raw.githubusercontent.com/suhailroushan13/suhailroushan13/master/suhail.png" width="1420"><br> -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suhailroushan13/suhailroushan13/master/suhail1.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suhailroushan13/suhailroushan13/master/suhail.png">
-  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
-
-<h1 align="center">Suhail Roushan</h1>
+<h1 align="center">Suhail Roushan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45" height="30"></h1>
 <h2 align="center">Fellow at CS.CODE.IN Class of 2021 </h2>
 
 <a href="https://app.daily.dev/suhailroushan"><img align="right" width="auto" height="370" src="https://api.daily.dev/devcards/ed8c407f7e92461aacc2a08689397203.png?r=bk3"  width="400" alt="Suhail Roushan Dev Card"/></a>
@@ -15,7 +8,7 @@
 I'm [𝗦𝘂𝗵𝗮𝗶𝗹 𝗥𝗼𝘂𝘀𝗵𝗮𝗻](https://suhailroushan.com) A Pre - Final Year Engineering Student practicing in 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 from 𝗟𝗼𝗿𝗱𝘀 𝗜𝗻𝘀𝘁𝗶𝘁𝘂𝘁𝗲 𝗼𝗳 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆,Hyderabad. <br> I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.<br>
 
 📌 𝗛𝗼𝘄 𝗖𝗮𝗻 𝗜 𝗛𝗲𝗹𝗽 𝗬𝗼𝘂?<br>
-Having an Experience in 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 & 𝗗𝗲𝘀𝗶𝗴𝗻𝗶𝗻𝗴 𝗣𝗿𝗼𝘁𝗼𝘁𝘆𝗽𝗲𝘀 . Love to 𝗘𝗱𝗶𝘁 things Like photos & Video Using 𝗔𝗱𝗼𝗯𝗲 Software Like Photoshop, Illustrator, Premier Pro. A 𝗨𝗜/𝗨𝗫 𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗿 of Neumorphism and Glassmorphism<br>
+Having an Experience in 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿  & 𝗗𝗲𝘀𝗶𝗴𝗻𝗶𝗻𝗴 𝗣𝗿𝗼𝘁𝗼𝘁𝘆𝗽𝗲𝘀 . Love to 𝗘𝗱𝗶𝘁 things Like photos & Video Using 𝗔𝗱𝗼𝗯𝗲 Software Like Photoshop, Illustrator, Premier Pro. A 𝗨𝗜/𝗨𝗫 𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗿 of Neumorphism and Glassmorphism<br>
 
 📌𝗔 𝗙𝗲𝘄 𝗪𝗼𝗿𝗱𝘀 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 :<br>
 A Guy with having Creativity + Coding Knowledge to Build Products which would Help people by using them. I would like to Solve problems using Updated Technology and making it more helpful. Programming isn't about what you know; it's about what you can figure out<br>
@@ -48,6 +41,7 @@ A Guy with having Creativity + Coding Knowledge to Build Products which would He
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Why Array Index's Start With 0️ ?🤔](https://suhailroushan.medium.com/why-array-indexs-start-with-0%EF%B8%8F-9728fe951dfe)
 - [What is SSH and How it Works 2️⃣2️⃣](https://suhailroushan.medium.com/everything-about-ssh-%EF%B8%8F-596388d53863)
 - [Connect to SSH without Password (Using Keys)🔒🔑](https://suhailroushan.medium.com/connect-ssh-without-password-using-keys-9f29dc580554)
 - [Billion Dollar Cyber Attack Ransomwares💲🧑‍💻](https://suhailroushan.medium.com/billion-dollar-cyber-attack-ransomwares-7e9878c5f496)
@@ -81,6 +75,38 @@ A Guy with having Creativity + Coding Knowledge to Build Products which would He
   
   <img src="https://profile-counter.glitch.me/suhailroushan13/count.svg" />
 </p>
+
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" alt="Npm" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="SSH" alt="SSH" width="40" height="40"/>&nbsp;
+
+
+
+</div>
+
+---
 
 <h2 align="left">:handshake: Connect With Me</h2>
 
