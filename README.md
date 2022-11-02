@@ -1,5 +1,5 @@
 
-<h1 align="center">Suhail Roushan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45" height="30"></h1>
+<h1 align="center">Suhail Roushan 🚀</h1>
 <h2 align="center">Fellow at CS.CODE.IN Class of 2021 </h2>
 
 <a href="https://app.daily.dev/suhailroushan"><img align="right" width="auto" height="370" src="https://api.daily.dev/devcards/ed8c407f7e92461aacc2a08689397203.png?r=bk3"  width="400" alt="Suhail Roushan Dev Card"/></a>
