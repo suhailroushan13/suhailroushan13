@@ -69,11 +69,20 @@ A Guy with having Creativity + Coding Knowledge to Build Products which would He
 
 </ul>
 
-<hr />
-
  <h2 align="left"> 🟢 Visitor Count ++</h2>
   
   <img src="https://profile-counter.glitch.me/suhailroushan13/count.svg" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhailroushan13&show_icons=true&locale=en&layout=compact" alt="suhailroushan13" /></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr />
+
+
 </p>
 
 
