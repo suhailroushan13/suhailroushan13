@@ -1,6 +1,6 @@
 
 <h1 align="center">Suhail Roushan 🚀</h1>
-<h2 align="center">Fellow at CS.CODE.IN Class of 2021 </h2>
+<h3 align="center">A Fellow at CS.CODE.IN-Class of CS 2021 💻 <br>  Full Stack Web Developer 🧑‍💻 <br> UI UX Designer ✨ <br> Automation 🤖 </h3>
 
 <a href="https://app.daily.dev/suhailroushan"><img align="right" width="auto" height="370" src="https://api.daily.dev/devcards/ed8c407f7e92461aacc2a08689397203.png?r=bk3"  width="400" alt="Suhail Roushan Dev Card"/></a>
 
