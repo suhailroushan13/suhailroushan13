@@ -1,132 +1,127 @@
 
-<h1 align="center">Suhail Roushan 🚀</h1>
-<h3 align="center">A Fellow at CS.CODE.IN-Class of CS 2021 💻 <br>  Full Stack Web Developer 🧑‍💻 <br> UI UX Designer ✨ <br> Automation 🤖 </h3>
+<h1 align="center">Suhail Roushan 🚀 </h1>
 
+<h3 align="center"> Fellow at CS.CODE.IN - Class of 2021 | Full Stack Web Developer  | UI UX Designer | Automation | </h3>
+<br>
 <a href="https://app.daily.dev/suhailroushan"><img align="right" width="auto" height="370" src="https://api.daily.dev/devcards/ed8c407f7e92461aacc2a08689397203.png?r=bk3"  width="400" alt="Suhail Roushan Dev Card"/></a>
 
-<br> 📌 Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20"><br>
-I'm [𝗦𝘂𝗵𝗮𝗶𝗹 𝗥𝗼𝘂𝘀𝗵𝗮𝗻](https://suhailroushan.com) A Final Year Engineering Student practicing in 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 from 𝗟𝗼𝗿𝗱𝘀 𝗜𝗻𝘀𝘁𝗶𝘁𝘂𝘁𝗲 𝗼𝗳 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆,Hyderabad. <br> I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.<br>
+- I am passionate about Full Stack Web Development, DevOps, Automation, Computer Networks and I am always looking to learn and improve my skills.
+-  Well I am  not a Rockstar (or Visionary) but extremely well Implementor and Integrator. I'm searching for jobs to gain professional experience and further develop my skills.
+-  I am confident in my ability to contribute to a team and achieve positive results. 
+-  I have experience working in fast-paced environments and am able to manage multiple projects and tasks simultaneously. 
+-  I am a strong communicator and collaborator, able to work effectively with colleagues, clients, and stakeholders at all levels.
 
-📌 𝗛𝗼𝘄 𝗖𝗮𝗻 𝗜 𝗛𝗲𝗹𝗽 𝗬𝗼𝘂?<br>
-I am a 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with experience building open source projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:Having an Experience in 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿  & 𝗗𝗲𝘀𝗶𝗴𝗻𝗶𝗻𝗴 𝗣𝗿𝗼𝘁𝗼𝘁𝘆𝗽𝗲𝘀 . Love to 𝗘𝗱𝗶𝘁 things Like photos & Video Using 𝗔𝗱𝗼𝗯𝗲 Software Like Photoshop, Illustrator, Premier Pro. <br>
 
-📌𝗔 𝗙𝗲𝘄 𝗪𝗼𝗿𝗱𝘀 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 :<br>
-A Guy with having Creativity + Coding Knowledge to Build Products which would Help people by using them. I would like to Solve problems using Updated Technology and making it more helpful. Programming isn't about what you know; it's about what you can figure out<br>
-
-**Obsessed with** 🤗<br>
-
+**Obsessed with** 🧑‍💻<br>
+- Coding 🧑‍💻
+- Automation 🤖
 - Startups🚀
-- Web3.0💻
 - Marketing 🤳
 - Designing ✏️
-- Coding 🧑‍💻
-- Domains🤑
+- Domains 🌐
 
 <hr />
+              
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 : <br>
 
-- [Track My Bus 🚌](https://trackmybus.tech) It's an Application which Tracks the Real-Time Location of College Buses. (Live) 🟢 Available on [Play Store](https://play.google.com/store/apps/details?id=com.w8india.w8)<br>
-- [365Days.codes 💻](https://github.com/suhailroushan13/365days.codes) Its a Repository Where you can Learn Programming Languages.(Live) 🟢 Available on [GitHub Repo📁](https://github.com/suhailroushan13/365days.codes)
-- [Full Stack Projects 💻](https://github.com/suhailroushan13/Suhail-Projects) Its a Repository Where you can get My Full Stack Projects.(Live) 🟢 Available on [GitHub Repo📁](https://github.com/suhailroushan13/Suhail-Projects)
-
-<!-- 𝗢𝗻 𝗣𝗿𝗼𝗴𝗿𝗲𝘀𝘀 : <br>
-
-- [Mentorpe.com🧑‍🏫](https://suhailroushan.com/progress.html) (Live 2023-24) ⏳
-- [Metacode.live 🧑‍💻](https://suhailroushan.com/progress.html) (Live 2023-24) ⏳
-- [Memes.school🎒](https://suhailroushan.com/progress.html) (Live 2023-24) ⏳ -->
-
-<hr />
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Why Array Index's Start With 0️ ?🤔](https://suhailroushan.medium.com/why-array-indexs-start-with-0%EF%B8%8F-9728fe951dfe)
-- [What is SSH and How it Works 2️⃣2️⃣](https://suhailroushan.medium.com/everything-about-ssh-%EF%B8%8F-596388d53863)
-- [Connect to SSH without Password (Using Keys)🔒🔑](https://suhailroushan.medium.com/connect-ssh-without-password-using-keys-9f29dc580554)
-- [Billion Dollar Cyber Attack Ransomwares💲🧑‍💻](https://suhailroushan.medium.com/billion-dollar-cyber-attack-ransomwares-7e9878c5f496)
-- [Shallow Copy and Deep Copy In JavaScript 💫](https://suhailroushan.medium.com/you-dont-know-how-javascript-copy-variables-shallow-copy-ba043788a6cd)
-- [How to Copy Paste Files in 100MB's Speed 🏎️](https://suhailroushan.medium.com/how-to-copy-paste-files-in-100mbs-speed-e8b1e31e18f0)
-- [Get Your Free SSL ✅](https://suhailroushan.medium.com/free-ssl-38ad1ec18a52)
-- [Encode Your Messages Using Base64 🛅](https://suhailroushan.medium.com/encode-your-messages-using-base64-315d2c0420ce)
-- [5 Ways to Swap Numbers In C Programming ➡️⬅️](https://suhailroushan.medium.com/5-ways-to-swap-numbers-in-c-programming-5b2e6f0cf59f)
-- [Make UPI Payments Without Internet 🌍](https://suhailroushan.medium.com/yes-you-heard-right-now-make-upi-payments-without-internet-9d831e8b2509)
-- [GitHub -Where the world builds software 🧑‍💻](https://suhailroushan.medium.com/github-where-the-world-builds-software-a4b6cf383824)
-- [Unix/Linux Fundamentals 📕](https://suhailroushan.medium.com/unix-linux-fundamentals-7f0a3b1e49b4)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://suhailroushan.medium.com/)
-
-<hr />
-
-<h2 align="left"> <img src="https://i.imgur.com/7kJWL1n.png" alt="Mongodb Logo - Mongodb Logo Transparent@seekpng.com" width="30px" height="60px">&nbsp;MongoDB Certification Paper's</h2>
-
-<ul>
-<li> <a href="https://university.mongodb.com/course_completion/31684c91-234e-4f0b-8525-e2c7d3d94cb4
-"alt="<b>M001:MongoDB Basics</b>"> <b>M001:MongoDB Basics</b> </a> 
- <li> <a href="https://university.mongodb.com/course_completion/16a4658e-49d9-4a25-8edb-ad81b9d8aee5
-"alt="<b>M001:MongoDB Basics</b>"> <b>M220JS: MongoDB for JavaScript Developers</b> </a> 
-
-</ul>
-
- <h2 align="left"> 🟢 Visitor Count ++</h2>
   
-  <img src="https://profile-counter.glitch.me/suhailroushan13/count.svg" />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhailroushan13&show_icons=true&locale=en&layout=compact" alt="suhailroushan13" /></p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr />
 
-
-</p>
-
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" alt="Npm" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="SSH" alt="SSH" width="40" height="40"/>&nbsp;
-
-
-
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>    
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
+ <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a> 
+<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>   
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>    
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a> 
+ <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
+<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
 </div>
 
+</td><td valign="top" width="33%">
 
----
 
-<h2 align="left">:handshake: Connect With Me</h2>
 
-<a href="https://www.linkedin.com/in/suhailroushan/"><img align="left" src="https://raw.githubusercontent.com/suhailroushan/suhailroushan/main/linkedin.png" alt="Suhail Roushan | LinkedIn" width="40px"/></a>
-<a href="https://instagram.com/suhailroushan"><img align="left" src="https://raw.githubusercontent.com/suhailroushan/suhailroushan/main/insta.png" alt="Suhail Roushan | Instagram" width="40px"/></a>
-<a href="https://suhailroushan.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Suhail Roushan | Medium" width="40px"/></a>
-<a href="https://www.facebook.com/your.suhailroushan/"><img align="left" src="https://raw.githubusercontent.com/suhailroushan/suhailroushan/main/facebook.png" alt="Suhail Roushan | Facebook" width="40px"/></a>
-<a href="https://twitter.com/0xsuhailroushan"><img align="left" src="https://raw.githubusercontent.com/suhailroushan/suhailroushan/main/twitter.png" alt="Suhail Roushan | Twitter" width="40px"/></a>
-<a href="https://suhailroushan.com"><img align="left" src="https://raw.githubusercontent.com/suhailroushan/suhailroushan/main/suhailroushann.png" alt="Suhail Roushan | Website" width="40px"/></a>
-<br>
-<br>
+### Backend  
+<div align="center"> 
+ <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
+ <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a> 
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> 
+ <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>   
+</div>
 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+ <a href="https://jenkins.io/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>    
+</div>
+</td></tr></table>  
+
+<br/>  
+
+ <h2 align="left">Profile View's</h2> <img src="https://profile-counter.glitch.me/suhailroushan13/count.svg" />
+
+
+  ## Connect With Me  
+<div align="center">
+ <a href="https://suhailroushan.com" target="_blank">
+<img src=https://img.shields.io/badge/%20-🌐Website-blueviolet.svg?&style=for-the-badge&logo=healthinesses&logoColor=blueviolet%20alt=website style="margin-bottom: 5px;" />
+</a>
+  <a href="https://suhailroushan.in" target="_blank">
+<img src=https://img.shields.io/badge/%20-📄RESUME-lightgrey.svg?&style=for-the-badge&logo=healthinesses&logoColor=blueviolet%20alt=website style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://twitter.com/0xsuhailroushan" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/suhailroushan" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+ <a href="https://medium.com/@suhailroushan" target="_blank">
+<img src=https://img.shields.io/badge/%20-MEDIUM-informational.svg?&style=for-the-badge&logo=medium&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/suhailroushan" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=blueviolet%20alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/your.suhailroushan/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+</div>  
+
+
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/suhailroushan13">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=suhailroushan13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suhailroushan13&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me <a href=""> ✉️ suhail@code.in<a> !  
