@@ -3,7 +3,7 @@
 
 <h3 align="center"> Fellow at CS.CODE.IN - Class of 2021 | Full Stack Web Developer  | UI UX Designer | Automation | </h3>
 <br>
-<a href="https://app.daily.dev/suhailroushan"><img align="right" width="auto" height="370" src="https://api.daily.dev/devcards/ed8c407f7e92461aacc2a08689397203.png?r=bk3"  width="400" alt="Suhail Roushan Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/suhailroushan"><img align="right" width="auto" height="370" src="https://api.daily.dev/devcards/ed8c407f7e92461aacc2a08689397203.png?r=bk3"  width="400" alt="Suhail Roushan Dev Card"/></a> -->
 
 - I am passionate about Full Stack Web Development, DevOps, Automation, Computer Networks and I am always looking to learn and improve my skills.
 -  Well I am  not a Rockstar (or Visionary) but extremely well Implementor and Integrator. I'm searching for jobs to gain professional experience and further develop my skills.
