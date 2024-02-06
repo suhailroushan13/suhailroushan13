@@ -1,27 +1,23 @@
-
 <h1 align="center">Suhail Roushan 🚀 </h1>
-
-<h3 align="center"> Fellow at CS.CODE.IN - Class of 2021 | Full Stack Web Developer  | UI UX Designer | Automation | </h3>
+<h3 align="center"> Software Engineer at T-Works | UI/UX Designer | CS.CODE.IN Fellow '21 | Startup Tech Innovator </h3>
 <br>
-<!-- <a href="https://app.daily.dev/suhailroushan"><img align="right" width="auto" height="370" src="https://api.daily.dev/devcards/ed8c407f7e92461aacc2a08689397203.png?r=bk3"  width="400" alt="Suhail Roushan Dev Card"/></a> -->
 
-- I am passionate about Full Stack Web Development, DevOps, Automation, Computer Networks and I am always looking to learn and improve my skills.
--  Well I am  not a Rockstar (or Visionary) but extremely well Implementor and Integrator. I'm searching for jobs to gain professional experience and further develop my skills.
--  I am confident in my ability to contribute to a team and achieve positive results. 
--  I have experience working in fast-paced environments and am able to manage multiple projects and tasks simultaneously. 
--  I am a strong communicator and collaborator, able to work effectively with colleagues, clients, and stakeholders at all levels.
+- Passionate Software Engineer at T-Works and CS.CODE.IN Fellow '21.
+- Specialized in Full Stack Web Development, UI/UX Design, and Automation.
+- Recognized for effective implementation and integration in team settings.
+- Adept at managing multiple projects in dynamic environments.
+- Committed to continuous learning, particularly in Startup Tech.
+- Focuses on merging creativity and technology for innovative solutions.
 
 
-**Obsessed with** 🧑‍💻<br>
-- Coding 🧑‍💻
+### Areas of expertise 
+- Full Stack Web Development 🧑‍💻
+- UI/UX Design 👨‍🎨
 - Automation 🤖
-- Startups🚀
+- Startup Technology and Innovation 💡
 - Marketing 🤳
-- Designing ✏️
-- Domains 🌐
-
+- Domain Expertise 🌐
 <hr />
-              
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
