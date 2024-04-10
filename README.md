@@ -1,9 +1,9 @@
 <h1 align="center">Suhail Roushan 🚀 </h1>
-<h3 align="center"> Software Engineer at T-Works | UI/UX Designer | CS.CODE.IN Fellow '21 | Startup Tech Innovator </h3>
+<h3 align="center"> Software Engineer at T-Works  | CS.CODE.IN Fellow '21 | Startup Tech Innovator </h3>
 <br>
 
 - Passionate Software Engineer at T-Works and CS.CODE.IN Fellow '21.
-- Specialized in Full Stack Web Development, UI/UX Design, and Automation.
+- Specialized in Full Stack Web Development and Automation.
 - Recognized for effective implementation and integration in team settings.
 - Adept at managing multiple projects in dynamic environments.
 - Committed to continuous learning, particularly in Startup Tech.
@@ -11,8 +11,7 @@
 
 
 ### Areas of expertise 
-- Full Stack Web Development 🧑‍💻
-- UI/UX Design 👨‍🎨
+- Full Stack Web Developer 🧑‍💻
 - Automation 🤖
 - Startup Technology and Innovation 💡
 - Marketing 🤳
