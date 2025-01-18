@@ -1,8 +1,10 @@
 <h1 align="center">Suhail Roushan 🚀 </h1>
-<h3 align="center"> Software Engineer at T-Works  | CS.CODE.IN Fellow '21 | Startup Tech Innovator </h3>
+<h3 align="center"> Software Engineer at The Hacking School  | CS.CODE.IN Fellow '21 | Startup Tech Innovator </h3>
+<!-- <h3 align="center"> Software Engineer at T-Works  | CS.CODE.IN Fellow '21 | Startup Tech Innovator </h3> -->
+
 <br>
 
-- Passionate Software Engineer at T-Works and CS.CODE.IN Fellow '21.
+- Passionate Software Engineer at The Hacking School and CS.CODE.IN Fellow '21.
 - Specialized in Full Stack Web Development and Automation.
 - Recognized for effective implementation and integration in team settings.
 - Adept at managing multiple projects in dynamic environments.
