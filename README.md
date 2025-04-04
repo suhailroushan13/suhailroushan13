@@ -1,84 +1,80 @@
-<h1 align="center">Suhail Roushan 🚀</h1>
-<h3 align="center">Software Engineer at The Hacking School | Tech Enthusiast | Startup Innovator</h3>
+<h1 align="center">Hey, I'm Suhail Roushan 🚀</h1>
+<h3 align="center">Software Engineer at The Hacking School | Full Stack Dev | Startup Explorer</h3>
 
 ---
 
-### About Me  
+## 🙋‍♂️ About Me
 
-Hi there! 👋 I'm Suhail Roushan, a passionate **Software Engineer** at **The Hacking School** and a proud **CS.CODE.IN Fellow '21**.  
-I specialize in **Full Stack Web Development** and **Automation**, with a focus on solving real-world problems through innovative technology.  
+Hey there! I'm Suhail — a passionate Software Engineer at **The Hacking School** and a proud **CS.CODE.IN Fellow '21**. I thrive on turning real-world problems into impactful digital solutions.
 
-- 📍 Based in Hyderabad, India  
-- 🔭 Currently exploring **Startup Technologies** and scaling innovative solutions.  
-- 🌱 Constantly learning to stay ahead in **Web Development**, **DevOps**, and **Tech Innovation**.  
-
-💬 If you have any question/feedback, please do not hesitate to reach out to me at ✉️ **suhail@code.in**!  
-
----
-
-<h2 align="left">Profile Views</h2>
-<img src="https://profile-counter.glitch.me/suhailroushan13/count.svg" />
+- 📍 Based in **Hyderabad, India**  
+- 🛠️ Currently building with **MERN, Docker, Stripe, and VS Code APIs**  
+- 🚀 Exploring the startup world through **Suhail Labs**  
+- 🧠 Lifelong learner of **DevOps, SaaS, and Engineering Culture**  
+- 💬 Always down to chat tech or startup ideas: [**suhail@code.in**](mailto:suhail@code.in)
 
 ---
 
-### 🚀 Areas of Expertise  
+## 🧰 Tech Stack
 
-- **Full Stack Development**  
-- **DevOps and Automation**  
-- **UI/UX Design**  
-- **Startup Technology & Marketing**  
-
----
-
-### 🛠️ Tech Stack  
-
-| **Category**       | **Technologies**                                                                                       |
-|---------------------|-------------------------------------------------------------------------------------------------------|
-| **Frontend**        | React, Tailwind CSS, Material UI, Bootstrap, HTML5, CSS3, JavaScript, Figma, Adobe XD, Chakra UI       |
-| **Backend**         | Node.js, Express.js, MongoDB, Redis, MySQL, Python                                                   |
-| **DevOps**          | AWS, Google Cloud Platform (GCP), Docker, Jenkins, Linux, Bash, Azure                                |
-| **UI/UX Tools**     | Figma, Adobe XD, Adobe Photoshop                                                                     |
-| **Version Control** | Git, GitHub                                                                                          |
+| **Area**      | **Technologies**                                                                                                                                     |
+|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Frontend**  | React, Tailwind, Bootstrap, Material UI, HTML5, CSS3, JavaScript, Figma, Adobe XD, Chakra UI                                                         |
+| **Backend**   | Node.js, Express, MongoDB, Redis, MySQL, Python                                                                                                       |
+| **DevOps**    | Docker, AWS, GCP, Jenkins, Azure, Bash, Linux                                                                                                         |
+| **Tools**     | Git, GitHub, VS Code, Postman, Stripe, Multer, Nginx, Certbot                                                                                         |
+| **Design**    | Figma, Adobe Photoshop, Canva                                                                                                                         |
 
 ---
 
-### 📊 GitHub Stats  
+## 👀 Profile Views
 
 <p align="center">
-  <a href="https://github.com/suhailroushan13">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhailroushan13&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhailroushan13&layout=compact&langs_count=8&theme=radical" />
-  </a>
+  <img src="https://profile-counter.glitch.me/suhailroushan13/count.svg" />
+</p>
+
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhailroushan13&show_icons=true&theme=tokyonight&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhailroushan13&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 ---
 
-### 🌐 Connect with Me  
+## 🧠 Current Focus
+
+- Building `ghibli.pics`, `notes.suhail.app`, and a **live coding stream platform**
+- Mentoring future devs through **The Hacking School**
+- Developing micro SaaS apps under **Suhail Labs**
+- Experimenting with **Three.js games & VS Code extensions**
+
+---
+
+## 🔗 Let’s Connect
 
 <div align="center">
-
-<div align="center">
- <a href="https://suhailroushan.com" target="_blank">
-<img src=https://img.shields.io/badge/%20-🌐Website-blueviolet.svg?&style=for-the-badge&logo=healthinesses&logoColor=blueviolet%20alt=website style="margin-bottom: 5px;" />
-</a>
+  <a href="https://suhailroushan.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Website-blueviolet?style=for-the-badge" />
+  </a>
   <a href="https://suhailroushan.in" target="_blank">
-<img src=https://img.shields.io/badge/%20-📄RESUME-lightgrey.svg?&style=for-the-badge&logo=healthinesses&logoColor=blueviolet%20alt=website style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://twitter.com/0xsuhailroushan" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/suhailroushan13" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
- <a href="https://medium.com/@suhailroushan" target="_blank">
-<img src=https://img.shields.io/badge/%20-MEDIUM-informational.svg?&style=for-the-badge&logo=medium&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/suhailroushan" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=blueviolet%20alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/your.suhailroushan/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-</div>  
+    <img src="https://img.shields.io/badge/📄 Resume-grey?style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/0xsuhailroushan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/suhailroushan13" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@suhailroushan" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/suhailroushan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/your.suhailroushan" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </div>
+
