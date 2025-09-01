@@ -4,7 +4,7 @@
   <!-- Header -->
   <tr>
     <td width="200" align="center">
-      <img src="https://avatars.githubusercontent.com/u/58624583?v=4" width="150" height="150" style="border-radius:50%; border:3px solid #ccc;"/>
+      <img src="https://upload.suhail.app/uploads/MOxyXOY.png" width="150" height="150" style="border-radius:50%; border:3px solid #ccc;"/>
     </td>
     <td align="left" style="padding-left:30px;">
       <h1><b>Suhail Roushan</b></h1>
@@ -42,20 +42,6 @@
       </table>
     </td>
   </tr>
-
-  <!-- Focus -->
-  <tr>
-    <td colspan="2" align="left">
-      <h3>🧠 Current Focus</h3>
-      <ul>
-        <li>Building <b>ghibli.pics</b>, <b>notes.suhail.app</b>, and a live coding platform</li>
-        <li>Mentoring future devs at <b>The Hacking School</b></li>
-        <li>Developing micro SaaS apps with <b>Suhail Labs</b></li>
-        <li>Experimenting with <b>Three.js games</b> & <b>VS Code extensions</b></li>
-      </ul>
-    </td>
-  </tr>
-
 
 </table>
 
