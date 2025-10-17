@@ -3,9 +3,9 @@
 <table align="center" width="100%" style="border:4px solid grey; border-radius:10px; padding:20px;">
   <!-- Header -->
   <tr>
-    <td width="200" align="center">
+    <!-- <td width="200" align="center">
       <img src="https://upload.suhail.app/uploads/MOxyXOY.png" width="150" height="150" style="border-radius:50%; border:3px solid #ccc;"/>
-    </td>
+    </td> -->
     <td align="left" style="padding-left:30px;">
       <h1><b>Suhail Roushan</b></h1>
       <h3>Software Engineer @ The Hacking School</h3>
