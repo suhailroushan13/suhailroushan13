@@ -10,7 +10,7 @@
       <h1><b>Suhail Roushan</b></h1>
       <h3>Software Engineer @ The Hacking School</h3>
       <p><i>Full Stack Developer • Startup Explorer • Mentor</i></p>
-      <p>📍 Hyderabad, India | 💌 <a href="mailto:suhail@code.in">suhail@code.in</a></p>
+      <p>📍 Hyderabad, India | 💌 <a href="mailto:suhailroushan13@gmail.com">suhailroushan13@gmail.com</a></p>
     </td>
   </tr>
 
