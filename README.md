@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Engineer+%40+The+Hacking+School;⚡+MERN+%7C+Docker+%7C+DevOps+%7C+SaaS+Builder;🎓+CS.CODE.IN+Fellow+'22;🛠️+Founder+of+Suhail+Labs;🌟+Mentor+%7C+Startup+Explorer+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Engineer+%40+The+Hacking+School;⚡+MERN+%7C+Docker+%7C+DevOps+%7C+SaaS+Builder;🎓+CS.CODE.IN+Fellow+'22;🛠️🌟+Mentor+%7C+Startup+Explorer+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 <br/>
 
@@ -126,10 +126,7 @@ superpower  : "GET THINGS DONE" mindset
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhailroushan13&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhailroushan13&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhailroushan13&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
@@ -143,20 +140,14 @@ superpower  : "GET THINGS DONE" mindset
 
 ---
 
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suhailroushan13&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
-</div>
-
----
 
 ## 🎯 Career Timeline
 
 ```
-2021  ──────●  CS.CODE.IN Fellowship '21 · Started open-source journey
-              │
-2022  ──────●  CS.CODE.IN Fellow '22 · Campus Lead @ EdVenture Park
+2021  ──────●  CS.CODE.IN Fellowship '21 
+              │ →  Started open-source journey
+
+2022  ──────●  Campus Lead @ EdVenture Park
               │  → Empowering budding entrepreneurs in pre-incubation
               │
 2022  ──────●  Cybersecurity Analyst Internship @ Supraja Technologies
@@ -173,7 +164,7 @@ superpower  : "GET THINGS DONE" mindset
               │  → Teaching MERN stack · Shipping micro-SaaS @ Suhail Labs
               │  → Building ghibli.pics, notes.suhail.app, VS Code extensions
               │
-NOW   ──────●  Exploring: Next.js 15 · TypeScript · Three.js · AI APIs
+NOW   ──────●  Exploring:· Building Scable Efficient Products Using fucking AI & Challenging AI What he can't do
 ```
 
 ---
